@@ -1,0 +1,9 @@
+# C++ executables
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# VS Code files
+/.vscode
